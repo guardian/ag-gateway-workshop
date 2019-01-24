@@ -1,4 +1,4 @@
-name := "ag-gateway-workshop"
+name := "agGatewayWorkshop"
 
 organization := "com.gu"
 
